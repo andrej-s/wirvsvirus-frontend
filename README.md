@@ -23,7 +23,7 @@ npm install
 ```
 
 ## Config
-This plugin fetches data from the backend server. Set the backend server in [contacts/index.js](https://github.com/andrej-s/wirvsvirus-frontend/blob/master/src/Constants/index.js)
+This plugin fetches data from the backend server. Set the backend server in [constants/index.js](https://github.com/andrej-s/wirvsvirus-frontend/blob/master/src/Constants/index.js)
 
 ## Missing features
 Most importantly, authentification for the backend server is currently missing. Additionally, data is fetched without caching.
